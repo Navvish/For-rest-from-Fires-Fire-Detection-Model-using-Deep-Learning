@@ -1,4 +1,4 @@
-# For-rest-from-Fires-Fire-Detection-Model-using-Deep-Learning-
+# For-rest-from-Fires-Fire-Detection-Model-using-Deep-Learning
 ## Project Description
 This initiative focuses on creating a Convolutional Neural Network (CNN) model to identify fire in images. The goal is to develop an effective tool for early fire detection, applicable in various fields such as surveillance systems, forest monitoring, and safety mechanisms.
 
